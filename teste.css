@@ -1,0 +1,22 @@
+body {
+    background-color: crimson;
+}
+.txt1{
+    text-align: center;
+}
+.subtxt{
+    text-align: center;
+}
+.image0 img{
+    display: block;
+    width: 20%;
+    position: absolute;
+    bottom:20px;
+    right: 20px;
+}
+.image img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
